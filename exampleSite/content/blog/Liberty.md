@@ -2,7 +2,6 @@
 categories = ["Smart Doll"]
 date = 2021-03-12T05:00:00Z
 description = "Liberty"
-draft = true
 image = "/images/pxl_20210312_224645343_2.jpg"
 tags = ["Smart Doll"]
 title = ""
